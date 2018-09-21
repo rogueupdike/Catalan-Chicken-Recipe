@@ -1,0 +1,117 @@
+/*General*/ 
+body {
+	font-family: Quicksand; 
+	color: 212121;
+	line-height: 1.6; 
+}
+
+
+/*Header*/
+header {
+	background-color: crimson;
+	padding: 1.5rem 5%;
+}
+
+.logo h1 {
+	font-family: Lobster, serif;
+	font-size: 3.5rem;
+	color: white;
+	text-decoration: line-through;
+	text-decoration-color: crimson;
+}
+
+.menu a {
+	color: #d7ccc8;
+}
+
+
+/*Main Content*/
+main {
+	padding:3rem 5%;
+}
+
+main h1 {
+	font-family: Lobster;
+	color: crimson;
+	text-decoration: overline;
+
+}
+
+main h2 {
+	font-family: Lobster;
+	color: crimson;
+	text-decoration: underline;
+}
+
+main h3 {
+	font-family: Crimson-Text;
+	color: #212121;
+}
+
+main h4 {
+	font-family: Crimson-Text;
+	color: #212121;
+	font-size: 1.3rem;
+}
+
+main li {
+
+}
+
+
+/*Column Left*/ 
+.col-left img {
+	width: 100%;
+}
+
+/*Inner Column*/
+
+
+/*Column Right*/
+
+
+/*Ingredients Lists*/
+.ingredients ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.ingredients li {
+	padding: .5rem 0;
+	border-top: 1px dotted #bdbdbd;
+}
+
+
+/*Footer*/ 
+footer {
+	padding: 1.5rem 5%;
+	background-color: #bdbdbd;
+}
+
+footer p {
+	margin: 0;
+	color: #757575;
+}
+
+footer a {
+	text-decoration: none; 
+	font-family: Crimson-Text;
+	color: #ffffff;
+	background: #757575;
+}
+
+/*/*<p class="intro"> This one is for one</p> 
+<p class="next"> This is for two</p> */
+
+/*p{ 
+color:red;
+}
+
+.intro {
+  font-size:3rem; 
+}
+
+.next {
+  color:blue; 
+}*/
